@@ -1,1 +1,1 @@
-# FFD descriptor
+# FFD
